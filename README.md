@@ -11,7 +11,7 @@ previous value.
 
 This will trigger a re-render
 
-### Why noy use a ref?
+### Why not use a ref?
 
 Well under the hood this is how `useEventualState` works, there are two problems
 with this approach:
