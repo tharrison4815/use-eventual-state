@@ -45,7 +45,7 @@ yarn add use-eventual-state
 ## Usage
 
 ```jsx
-import { useEventualState } from 'useEventualState'
+import { useEventualState } from 'use-eventual-state'
 
 const AComponent = () => {
   const [clickCount, setClickCount] = useEventualState(0)
