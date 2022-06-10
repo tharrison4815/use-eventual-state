@@ -13,8 +13,8 @@ This will trigger a re-render
 
 ### Why not use a ref?
 
-Well under the hood this is how `useEventualState` works, there are two problems
-with this approach:
+Well under the hood this is how `useEventualState` works, however there are two
+problems with using this approach in your own components:
 
 1. This involves writing your own code which causes a mutation. This can often
    cause bugs and can be more difficult to test. By using `useEventualState` this
