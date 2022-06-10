@@ -1,6 +1,6 @@
 {
   "name": "use-eventual-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/tharrison4815/use-eventual-state"
+  },
   "devDependencies": {
     "@testing-library/react": "^13.3.0",
     "@types/jest": "^28.1.1",
