@@ -1,6 +1,6 @@
-# useEventualState
+# use-eventual-state
 
-Allows you to set state without triggering a re-render
+A hook which allows you to set state in React without triggering a re-render
 
 ## Purpose
 

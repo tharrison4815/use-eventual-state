@@ -1,13 +1,21 @@
 {
   "name": "use-eventual-state",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "useState",
+    "state",
+    "delay",
+    "delayed",
+    "eventually",
+    "lazy",
+    "react"
+  ],
   "author": "",
   "license": "ISC",
   "repository": {
